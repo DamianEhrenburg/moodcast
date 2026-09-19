@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches, logs and databases
+*.log
+emotion_cache.json
+moodcast.db
+*.sqlite3
+
+# Environment variables and secrets
+.env
+.env.local
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local data / backups
+*.bak
+moodcast (курсовая, ключевые слова).py
