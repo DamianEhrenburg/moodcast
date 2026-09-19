@@ -176,10 +176,3 @@ python main.py
 ## License
 
 Moodcast is distributed under the [MIT License](LICENSE).
-
-<p align="center">
-  <sub>
-    Damian Ehrenburg ·
-    <a href="https://github.com/DamianEhrenburg">GitHub</a>
-  </sub>
-</p>
