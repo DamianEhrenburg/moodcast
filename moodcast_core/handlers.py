@@ -709,7 +709,7 @@ async def bookmark_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) 
         db.remove_from_watchlist(user_id, film_id)
         # Silent answer: button updates without intrusive banner
         await query.answer()
-        new_icon = "В закладки"
+        new_icon = "📌 В закладки"
     else:
         db.add_to_watchlist(user_id, current_film)
         await query.answer()
